@@ -8,10 +8,12 @@
       <version>8.27.1</version>
     </dependency>
 
-#### Replace ########## with your Twilio account sid, auth token and trial number
+#### Replace ########## with your Twilio account sid, auth token and trial number in application.properties
 
 twilio.account_sid= ######################
+
 twilio.auth_token= #######################
+
 twilio.trial_number= #####################
 
 #### References
